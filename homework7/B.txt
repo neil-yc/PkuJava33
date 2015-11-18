@@ -1,0 +1,2 @@
+My name is Tom , I am 26 years old .     
+B文件中属于B且不属于A的单词占B文件总数的百分比为：  22.0%

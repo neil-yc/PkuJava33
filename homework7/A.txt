@@ -1,0 +1,2 @@
+My name is Lily , I am 24 years old , living in Beijing .
+     A文件中属于A且不属于B的单词占A文件总数的百分比为：  41.0%
